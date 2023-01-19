@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/CardsCatFood/static/css/main.eaaaa5a8.css",
+    "main.js": "/CardsCatFood/static/js/main.c3f83b7f.js",
+    "static/js/787.2324fb23.chunk.js": "/CardsCatFood/static/js/787.2324fb23.chunk.js",
+    "static/media/Photo.png": "/CardsCatFood/static/media/Photo.18029f1f4aaaf650824d.png",
+    "static/media/Pattern.png": "/CardsCatFood/static/media/Pattern.13dda91419a65647ccc5.png",
+    "index.html": "/CardsCatFood/index.html",
+    "main.eaaaa5a8.css.map": "/CardsCatFood/static/css/main.eaaaa5a8.css.map",
+    "main.c3f83b7f.js.map": "/CardsCatFood/static/js/main.c3f83b7f.js.map",
+    "787.2324fb23.chunk.js.map": "/CardsCatFood/static/js/787.2324fb23.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eaaaa5a8.css",
+    "static/js/main.c3f83b7f.js"
+  ]
+}
